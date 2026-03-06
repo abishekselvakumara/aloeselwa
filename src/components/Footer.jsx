@@ -13,11 +13,11 @@ function Footer() {
               </span>
             </div>
             <p className="text-sm text-neutral-900/70 leading-relaxed max-w-md">
-              Specialized in high-temperature processing of aloe vera into coated solids. 
+              Specialized in high-temperature processing of aloe vera into coated solids.
               Pan-India distribution from our Karur District facility.
             </p>
           </div>
-          
+
           <div>
             <h4 className="text-xs tracking-[0.3em] uppercase text-neutral-900/60 mb-6">
               Quick Links
@@ -29,7 +29,7 @@ function Footer() {
               <li><a href="#contact" className="text-sm text-neutral-900/70 hover:text-aloe-600 transition-colors duration-300">Contact Us</a></li>
             </ul>
           </div>
-          
+
           <div>
             <h4 className="text-xs tracking-[0.3em] uppercase text-neutral-900/60 mb-6">
               Contact
@@ -37,9 +37,9 @@ function Footer() {
             <div className="space-y-3">
               <p className="text-sm text-neutral-900/70">
                 <span className="font-semibold">A. Selvakumar</span><br />
-                <a href="tel:+917904473079" className="hover:text-aloe-600">7904473079</a>
+                <a href="tel:+917904473079" className="hover:text-aloe-600"> 8056732317</a>
               </p>
-             
+
               <p className="text-sm text-neutral-900/70">
                 4, Jothivadam, Uppidamangalam<br />
                 Karur Dt., Tamilnadu - 639 114
@@ -47,10 +47,10 @@ function Footer() {
             </div>
           </div>
         </div>
-        
+
         <div className="border-t border-neutral-900/10 mt-12 pt-8 text-center">
           <p className="text-sm text-neutral-900/60">
-            © {new Date().getFullYear()} ALOES ELWA - Musabbar | Specialized Aloe Vera Processing | 
+            © {new Date().getFullYear()} ALOES ELWA - Musabbar | Specialized Aloe Vera Processing |
             Selvakumar - Production & Sales
           </p>
         </div>

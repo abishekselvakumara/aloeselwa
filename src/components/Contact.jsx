@@ -28,7 +28,7 @@ function Contact() {
                 4, Jothivadam, Uppidamangalam Post -639 114.<br />
                 Karur Dt., Tamilnadu
               </p>
-              
+
               <div className="space-y-8">
                 <div className="group cursor-pointer">
                   <div className="flex items-start gap-4">
@@ -39,17 +39,17 @@ function Contact() {
                       <p className="text-xs tracking-[0.2em] uppercase text-neutral-900/60 mb-1">
                         A. Selvakumar
                       </p>
-                      <a 
-                        href="tel:+917904473079" 
+                      <a
+                        href="tel:+917904473079"
                         className="text-lg text-neutral-900 group-hover:text-aloe-600 transition-colors duration-300 block"
                       >
-                        7904473079
+                        8056732317
                       </a>
                       <p className="text-sm text-neutral-900/60 mt-1">Primary Contact</p>
                     </div>
                   </div>
                 </div>
-                
+
                 <div className="group cursor-pointer">
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 flex items-center justify-center border border-neutral-900/10 group-hover:border-aloe-600 group-hover:bg-aloe-600/5 transition-all duration-300 flex-shrink-0">
@@ -85,7 +85,7 @@ function Contact() {
               </div>
             </div>
           </div>
-          
+
           <div>
             <div className="bg-neutral-900/5 p-6 md:p-12">
               <h3 className="text-2xl font-light mb-4 text-neutral-900">
@@ -94,10 +94,10 @@ function Contact() {
               <p className="text-sm text-neutral-900/60 mb-6">
                 Please fill in the form below. All fields marked with * are required.
               </p>
-              
+
               {/* Embedded Google Form */}
               <div className="w-full h-[550px] overflow-hidden rounded-lg border border-neutral-900/10 bg-white">
-                <iframe 
+                <iframe
                   src={googleFormEmbedUrl}
                   className="w-full h-full"
                   frameBorder="0"
@@ -108,7 +108,7 @@ function Contact() {
                   Loading enquiry form...
                 </iframe>
               </div>
-              
+
               {/* Alternative contact methods */}
               <div className="border-t border-neutral-900/10 pt-6 mt-6">
                 <h4 className="text-xs tracking-[0.2em] uppercase text-neutral-900/60 mb-4 text-center">
@@ -116,13 +116,13 @@ function Contact() {
                 </h4>
                 <div className="flex flex-col sm:flex-row gap-3">
                   <a
-                    href="tel:+917904473079"
+                    href="tel:+918056732317"
                     className="flex-1 inline-flex items-center justify-center border border-aloe-600/30 text-neutral-900 text-xs tracking-[0.2em] uppercase py-3 px-4 hover:border-aloe-600 hover:text-aloe-600 transition-all duration-300"
                   >
                     📞 Call A. Selvakumar
                   </a>
                   <a
-                    href={`https://wa.me/917904473079`}
+                    href={`https://wa.me/918056732317`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center bg-green-600/10 text-green-700 text-xs tracking-[0.2em] uppercase py-3 px-4 hover:bg-green-600 hover:text-white transition-all duration-300 border border-green-600/30"
