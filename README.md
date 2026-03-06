@@ -13,13 +13,13 @@ Premium, editorial-style landing page for a global aloe vera company, built with
 1. Install dependencies:
 
 ```bash
-pnpm install   # or: npm install / yarn install
+npm install   # or: npm install / yarn install
 ```
 
 2. Run the development server:
 
 ```bash
-pnpm dev       # or: npm run dev / yarn dev
+npm run dev       # or: npm run dev / yarn dev
 ```
 
 3. Open the URL printed in your terminal (typically `http://localhost:5173`) in your browser.
